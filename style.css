@@ -284,10 +284,6 @@ iframe {
 }
 
 @media screen and (max-width: 480px) {
-	body {
-		background: red;
-	}
-
 	#logo{
 		width: auto;
 		display: inline-block;
