@@ -284,6 +284,11 @@ iframe {
 }
 
 @media screen and (max-width: 480px) {
+	body {
+	font-family: 'Montserrat', Poppins;
+	background: #C0C0C0;
+}
+	
 	#logo{
 		width: auto;
 		display: inline-block;
