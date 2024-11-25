@@ -27,6 +27,32 @@ h2 {
 #consoles:hover {
 	opacity: 1;
 }
+.boxkoppa{
+	animation: mover 10s linear infinite alternate running;
+}
+
+.areakoppa{
+overflow: hidden;
+    position: relative; 
+    width: 100%; 
+    height: 100%; 
+}
+
+@keyframes mover{
+	from{
+		transform: translate(0, 0);
+	}
+	50% {
+		transform: translate(70%);
+	}
+
+	to {
+		transform: translate(0,0);
+	}
+}
+.areakoppa img {
+	width: 30%;
+}
 
 .centralizar {
 	display: flex;
@@ -368,3 +394,4 @@ iframe {
 		width: auto;
 	}
 }
+
