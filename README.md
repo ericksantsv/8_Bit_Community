@@ -6,7 +6,7 @@ Projeto acadêmico da disciplina de Fundamentos de Desenvolvimento Web (FDW), co
 
 ## 🌐 Link da Página
 
-Acesse a página online: [8_Bit_Community](https://ericksantsv.github.io/8_Bit_Community)
+Acesse a página online: [8_Bit_Community](https://ericksantsv.github.io/8_Bit_Community-Webpage)
 
 ---
 
